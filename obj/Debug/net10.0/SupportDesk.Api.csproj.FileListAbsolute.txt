@@ -1,0 +1,7 @@
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\SupportDesk.Api.csproj.AssemblyReference.cache
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\SupportDesk.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\SupportDesk.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\SupportDesk.Api.AssemblyInfo.cs
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\SupportDesk.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\SupportDesk\SupportDesk.Api\obj\Debug\net10.0\SupportDesk.Api.MvcApplicationPartsAssemblyInfo.cache
