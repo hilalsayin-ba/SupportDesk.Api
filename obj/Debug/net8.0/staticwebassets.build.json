@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"MT6kRNIlTAVTvFYJ4vsJLk/BffPw0PJTQoPkwcbJao4=","Source":"SupportDesk.Api","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "XqBqbgNbdNNRxYxGQAPw40h7xQQIEnHxtz1vRAZWumU=",
+  "Source": "SupportDesk.Api",
+  "BasePath": "_content/SupportDesk.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
